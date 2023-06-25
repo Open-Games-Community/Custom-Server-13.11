@@ -3,6 +3,9 @@
 This Github Repository it's only for Issues of a custom real map with Forge, Wheel , Bosstiary, Task Hunt and much more. We are currently working on it to improve the server.
 To take part or follow this server, check forum.
 An Update 13.20 also will be included with custom arrival content:
+- New Class: Assassin
+- New Items for Assassins
+- New Spells for Assassin Class
 - Pet System with levels & custom Spells unlocked by levels
 - Mining
 - Crafting
